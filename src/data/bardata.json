@@ -1,0 +1,141 @@
+{
+    "year": [
+            {
+                "year": "2011",
+                "amount": 1
+            },
+            {
+                "year": "2012",
+                "amount": 2
+            },
+            {
+                "year": "2013",
+                "amount": 3
+            },
+            {
+                "year": "2014",
+                "amount": 4
+            },
+            {
+                "year": "2015",
+                "amount": 5
+            },
+            {
+                "year": "2016",
+                "amount": 6
+            },
+            {
+                "year": "2017",
+                "amount": 7
+            },
+            {
+                "year": "2018",
+                "amount": 8
+            },
+            {
+                "year": "2019",
+                "amount": 9
+            },
+            {
+                "year": "2020",
+                "amount": 10
+            },
+            {
+                "year": "2021",
+                "amount": 1
+            }
+    ],
+    "quarter": [
+        {
+            "quarter": "2021Q1",
+            "year": "2021",
+            "amount": 1
+        },
+        {
+            "quarter": "2021Q2",
+            "year": "2021",
+            "amount": 2
+        },
+        {
+            "quarter": "2021Q3",
+            "year": "2021",
+            "amount": 3
+        },
+        {
+            "quarter": "2021Q4",
+            "year": "2021",
+            "amount": 4
+        },
+        {
+            "quarter": "2022Q1",
+            "year": "2022",
+            "amount": 2
+        }
+],
+"month": [
+    {
+        "month": "2020-0",
+        "amount": 1
+    },
+    {
+        "month": "2020-1",
+        "amount": 1
+    },
+    {
+        "month": "2020-2",
+        "amount": 2
+    },
+    {
+        "month": "2020-3",
+        "amount": 3
+    },
+    {
+        "month": "2020-4",
+        "amount": 4
+    },
+    {
+        "month": "2020-5",
+        "amount": 5
+    },
+    {
+        "month": "2020-6",
+        "amount": 6
+    },
+    {
+        "month": "2020-7",
+        "amount": 7
+    },
+    {
+        "month": "2020-8",
+        "amount": 8
+    },
+    {
+        "month": "2020-9",
+        "amount": 9
+    },
+    {
+        "month": "2020-10",
+        "amount": 10
+    },
+    {
+        "month": "2020-11",
+        "amount": 11
+    },
+    {
+        "month": "2021-0",
+        "amount": 12
+    },
+    {
+        "month": "2021-1",
+        "amount": 13
+    },
+    {
+        "month": "2021-2",
+        "amount": 14
+    },
+    {
+        "month": "2021-3",
+        "amount": 15
+    }
+]
+}

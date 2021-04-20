@@ -1,28 +1,37 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <v-app>
+    <v-main class="app">
+      <div>
+        <d3container/>
+      </div>
+    </v-main>
+  </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import d3container from './components/d3Container.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    d3container
   }
 }
 </script>
 
-<style>
-#app {
+<style lang="scss">
+.app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  background: linear-gradient(180deg, rgb(2, 122, 66) 0%, rgb(0, 255, 136) 27%, rgb(44, 252, 155) 67%, rgba(235,235,235,1) 100%);
+  
+}
+</style>
+<style lang="scss">
+.v-main__wrap {
+  place-self: center;
 }
 </style>
