@@ -9,7 +9,7 @@ The follwing is a front end application demo of D3 built off of vue.  This demo 
 
 <p></p>
 <div align="center">
-Live at: N/A
+Live at: https://mango-beach-0a749710f.azurestaticapps.net
 
 </div>
 
